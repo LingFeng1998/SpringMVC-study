@@ -13,6 +13,7 @@
         <module>02-helloSpringMVC</module>
         <module>SpringMVC-02-hello</module>
         <module>SpringMVC-03-annotation</module>
+        <module>ssmbuild</module>
     </modules>
 
     <dependencies>

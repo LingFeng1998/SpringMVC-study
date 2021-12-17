@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringMVC-01-serlvet" />
-        <module name="SpringMVC-02-hello" />
+        <module name="ssmbuild" />
         <module name="SpringMVC-03-annotation" />
+        <module name="SpringMVC-02-hello" />
+        <module name="SpringMVC-01-serlvet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
